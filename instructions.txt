@@ -1,0 +1,5 @@
+TO START THE APP
+
+1. Open RStudio
+2. Set your working directory to the folder containing app.R
+run this command in the console: shiny::runApp()
